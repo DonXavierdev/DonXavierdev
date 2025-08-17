@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-2024 Computer Science Graduate with hands-on experience in web and mobile development. I have worked on personal projects using frameworks like Django, FastAPI, Laravel and Flutter. I practice challenges on LeetCode to enhance my problem-solving skills. I am currently working on building an LMS platform using FastAPI.
+I dedicate my work to globally impactful projects that create real value for people and society. By addressing challenges at scale, I strive to deliver solutions that matter and make a lasting difference.
 <br>
 <br>
 <br>
