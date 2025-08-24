@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-I dedicate my work to globally impactful projects that create real value for people and society. By addressing challenges at scale, I strive to deliver solutions that matter and make a lasting difference.
+I dedicate my work to globally impactful projects that create real value for people and society. Specifically to healthcare and educational sectors.
 <br>
 <br>
 <br>
